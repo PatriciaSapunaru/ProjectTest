@@ -9,7 +9,7 @@
 static TCHAR szWindowClass[] = _T("win32app");
 
 // The string that appears in the application's title bar.
-static TCHAR szTitle[] = _T("Win32 Guided Tour Application");
+static TCHAR szTitle[] = _T("WindowApp");
 
 HINSTANCE hInst;
 
